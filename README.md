@@ -1,7 +1,7 @@
 ### Hi there, I'm Vo - aka [Tito][website]
 
 ### I'm Husband, Developer, and 3D Designer
-:ok_man:I'm currently working on PTN Global.<br>
+:ok_man:I'm currently working on PTN Global Corp.<br>
 :books: I'm currently learning Java-SpringBoot/Angular.<br>
 :raising_hand_man: I'm looking to collaborate on coding passionate.<br>
 :memo: Ask me about anything here.
