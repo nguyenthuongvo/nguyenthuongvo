@@ -1,5 +1,1 @@
-### Hi there, I'm Vo - aka [Tito]
-
-### I'm Husband, Developer, and 3D Designer
-:ok_man:I'm currently Freelancer.<br>
-:books: I'm currently developing Web Bluetooth controller for ESP32 BLE.
+Web3 Technical Product Owner with a decade of experience in software and product development. Specializing in blockchain technologies, including DeFi, NFTs, and DEX. Passionate about integrating cutting-edge tech trends into practical applications.
