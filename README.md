@@ -28,8 +28,8 @@ I'm Nguyen Thuong Vo, a seasoned Web3 Technical Product Owner based in Can Tho C
 ### 📚 Pinned Repositories
 
 <!-- Replace `repo1`, `repo2`, etc. with your repository names -->
-- [Repo1](https://github.com/nguyenthuongvo/Vox): Web bluetooth for SP110E controller.
-- [Repo2](https://github.com/nguyenthuongvo/webble): A sample code using WebBluetooth communicate with ESP32 via BLE.
+- [Vox](https://github.com/nguyenthuongvo/Vox): Web bluetooth for SP110E controller.
+- [WebBLE](https://github.com/nguyenthuongvo/webble): A sample code using WebBluetooth communicate with ESP32 via BLE.
 <!-- Add more if needed -->
 
 ---
@@ -44,8 +44,8 @@ I'm Nguyen Thuong Vo, a seasoned Web3 Technical Product Owner based in Can Tho C
 ### 📫 Get in Touch
 
 - Email: [thuongvokg@gmail.com](mailto:thuongvokg@gmail.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/v%C3%B5-nguy%E1%BB%85n-11b74219b)
-- Twitter: [Your Twitter](https://twitter.com/VoNguyenTech)
+- LinkedIn: [Võ Nguyễn](https://www.linkedin.com/in/v%C3%B5-nguy%E1%BB%85n-11b74219b)
+- Twitter: [Võ Nguyễn](https://twitter.com/VoNguyenTech)
 ---
 
 Feel free to browse my repositories and let's connect to make something awesome together!
